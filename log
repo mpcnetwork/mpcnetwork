@@ -5,3 +5,18 @@ operators kunnen collega's bijstaan
 in een virtuele omgeving van het doelgebied
 als spookcollega's onzichtbaar mee capabel om technologische zaken razendsnel op te zoeken en door te spelen
 digitale squadmates mee wandelen met spock de hond van robodynamics :O 
+
+log 30-8-2024
+3 instancies van blender tegelijk runnen vergt veel van de pc.
+"extremely poor performance"
+best op dit moment 1 instancie op zich draaien.
+1ste instancie: "real-time" de onmiddelijke data 
+2de instancie : "rendered time" de video feedback is verwerkt in een 3d landschap
+3de instancie : "prediction time" AI raad wat  de verwachte uitkomst zal zijn en verwerkt die in de "real-time" instancie als predicted pre-rendered data
+
+Drivers need clear indications in their experience that what they view is a peculiar instance
+using the prediction time, adding it tot rendered time for streamlining the viewer experience. It should be clear wich is wat.
+using "rendered time" AI predictions to create the prediction time.
+
+prediction time is needed for the infilment of real-time  data. Otherwise it will be choppy and unprocessed. Most likely an initial state of the program.
+due to the nature of unrendered information. drivers should be made aware what they see is wich rendition. resource optimization might require ...
