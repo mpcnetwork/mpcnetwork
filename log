@@ -33,3 +33,49 @@ Welkom in de klas! tijd voor Unreal 101.
 
 Log 03-09-2024
 De cursus is superintressant. zal er een tijdje overdoen om het goed te leren. weinig updates op ander gebied. Unreal!
+
+Log 05-09-2024
+Unreal Engine 5 Overzicht
+Belangrijkste Functies
+Nanite: Virtueel micropolygon geometriesysteem voor gedetailleerde werelden1.
+Lumen: Dynamische globale verlichting en reflecties1.
+World Partition: Automatische verdeling van de wereld in een raster voor efficiënte streaming1.
+MetaSounds: Geavanceerde audio-engine voor gedetailleerde geluidsontwerpen2.
+Animation Authoring: Gebruiksvriendelijke tools voor animatie en rigging1.
+Keyboard Shortcuts
+Navigatie:
+Pan: Alt + Linker muisknop
+Zoom: Muiswiel
+Orbit: Alt + Rechter muisknop
+Object Manipulatie:
+Verplaatsen: W
+Roteren: E
+Schalen: R
+Blueprint Editor:
+Compileren: Ctrl + Shift + B
+Opslaan: Ctrl + S
+Zoeken: Ctrl + F
+Algemeen:
+Kopiëren: Ctrl + C
+Plakken: Ctrl + V
+Ongedaan maken: Ctrl + Z
+Herhalen: Ctrl + Y34.
+Veelgebruikte Functies
+Event Begin Play: Triggert een event bij het starten van het spel5.
+Print String: Debug tool voor het weergeven van tekst op het scherm5.
+Set Actor Location: Positioneert een actor in je scène5.
+Branch: Blueprint’s versie van een if-then statement5.
+Material Functions: Herbruikbare componenten binnen een Material Graph6.
+Overzicht van Alle Functies
+Unreal Engine 5 biedt een breed scala aan functies voor verschillende toepassingen, waaronder:
+
+Rendering en Verlichting: Nanite, Lumen, Virtual Shadow Maps1.
+Wereldbouw: World Partition, Data Layers1.
+Animatie: Animation Authoring, Control Rig1.
+Audio: MetaSounds2.
+Gameplay: Blueprints, C++ integratie1.
+Easter Eggs
+Konami Code: In de Unreal Engine 5 demo is er een easter egg die je kunt ontgrendelen met de Konami Code7.
+Verborgen Berichten: Verschillende kaarten in de Unreal-serie bevatten verborgen berichten en inside jokes8
+
+Ook een fun versie opgestart die meer dienst zal doen voor uitproberen, testen, wat fun activiteiten ;) 
