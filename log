@@ -91,3 +91,7 @@ het kan een portaal zijn voor andere geintresseerden.
 log 11-09-2024
 Op dit moment is alles wat een warboel, een puzzel die nog niet is gemaakt, een hoop ideeen. Het zal wat tijd vergen voor de nodige opleidingen te doorlopen.
 om wat orde te scheppen in de chaos, om de warboel wat op te kuisen. Genoeg te doen. maar eerst een wandeling :) 
+
+Log 20-09-2024
+Er is een andere grafische kaart. H100 met meer dan 3x de capaciteit van de A100. 3 is precies het aantal instanties om de realtime impressie van het digiversum ... in plaats van 1 A100 / 3 , 1 A100 * 3.xxx
+Dat klinkt als een betere kandidaat voor de hardware. Even kijken wat die kost :)
