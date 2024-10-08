@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAPTCHA Form</title>
+</head>
+<body>
+    <h1>Voer de CAPTCHA in</h1>
+    <form action="verwerk_captcha.php" method="post">
+        <img src="static/images/captcha_afbeelding.jfif" alt="CAPTCHA Image">
+        <br>
+        <label for="captcha">CAPTCHA:</label>
+        <input type="text" id="captcha" name="captcha" required>
+        <br>
+        <button type="submit">Verzenden</button>
+    </form>
+</body>
+</html>
